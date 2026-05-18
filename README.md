@@ -157,21 +157,6 @@ Submit:
 
 ---
 
-## Grading
-
-| Requirement                     |  Points |
-| ------------------------------- | ------: |
-| Program runs correctly          |      15 |
-| Header comments completed       |      10 |
-| 20 meaningful comments added    |      20 |
-| Enhancement added correctly     |      20 |
-| Enhancement clearly commented   |      10 |
-| Data structure visual completed |      20 |
-| Code readability and formatting |       5 |
-| **Total**                       | **100** |
-
----
-
 ## Reminder
 
 Commit and push your work regularly to GitHub.
